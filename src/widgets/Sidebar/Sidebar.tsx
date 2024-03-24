@@ -5,7 +5,6 @@ import classNames from './Sidebar.module.css';
 import { NavigationMenu } from '@/widgets/Menu';
 
 export const Sidebar = () => {
-  console.log(1);
 
   return (
     <Paper className={classNames.sidebar} sx={{ py: 6, px: 4 }}>
