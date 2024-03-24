@@ -1,0 +1,9 @@
+.sidebar {
+    width: var(--sidebar-width);
+    height: 100vh;
+}
+
+.user {
+    padding: var(--space-l) 0;
+    border-top: 2px solid var(--border-color)
+}

@@ -1,0 +1,15 @@
+:root {
+    --space-s: 8px;
+    --space-m: calc(var(--space-s) * 2);
+    --space-l: calc(var(--space-s) * 3);
+    --space-xl: calc(var(--space-s) * 4);
+    --border-radius: 8px;
+    --sidebar-width: 260px;
+
+    --bg-color: #F7F8FA;
+    --primary-color: #6E63E6;
+    --light-primary-color: #bab5ff;
+    --secondary-color: #787885;
+    --border-color: #EBEBEB;
+}
+
